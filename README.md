@@ -1,3 +1,6 @@
+# Ejemplo de SlickSlider
+### Ideal para deslizar cards en un dispositivo mobile en el render
+
 Just run the command npm start
 
 ### `npm start`
